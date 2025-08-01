@@ -1,0 +1,437 @@
+************************************************************************************************************************************** 
+***\                                                                                                                              /***
+***\                                                   Monster List                                                               /***
+***\                                                                                                                              /***
+***\                                                                                                                              /***
+***\                       🟢 Standard Monsters  |  🟣 Variants  |  🔺 Superiors  |  👑 Bosses                         s         /***
+**************************************************************************************************************************************
+
+
+🟢 Aberrant spectre
+  - 🟣 Deviant spectre
+  - 🔺 Abhorrent spectre
+  - 🔺 Repugnant spectre 
+
+🟢 Abyssal demon
+  - 👑 Abyssal Sire
+  - 🔺 Greater abyssal demon
+
+🟢 Adamant dragon
+
+🟢 Ankou
+
+🟢 Araxyte
+  - 🟣 Araxxor
+  - 🔺 Dreadborn Araxyte
+
+🟢 Aviansie
+  - 🟣 Kree'arra 
+  - 🟣 Flight Kilisa 
+  - 🟣 Flockleader Geerin 
+  - 🟣 Wingman Skree
+
+🟢 Bandit
+  - 🟣 Black Heather 
+  - 🟣 Speedy Keith 
+  - 🟣 Donny the lad 
+
+🟢 Banshee
+  - 🟣 Twisted Banshee
+  - 🔺 Screaming banshee
+  - 🔺 Screaming twisted banshee
+
+🟢 Basilisk
+  - 🟣 Basilisk Knights
+  - 🔺 Monstrous basilisk
+  - 🔺 Basilisk Sentinel
+
+🟢 Bat
+  - 🟣 Giant bat
+  - 🟣 Albino bat
+  - 🟣 Deathwing
+
+🟢 Bears
+  - 🟣 Black bear
+  - 🟣 Grizzly bear
+  - 🟣 Grizzly bear cub
+  - 🟣 Callisto
+  - 🟣 Artio
+
+🟢 Bird
+  - 🟣 Chicken 
+  - 🟣 Mounted terrorbird gnome 
+  - 🟣 Rooster 
+  - 🟣 Seagull 
+  - 🟣 Terrorbird 
+  - 🟣 Vulture 
+  - 🟣 Undead chicken 
+  - 🟣 Chompy Bird	
+
+🟢 Black demon
+  - 🟣 Demonic gorilla 
+  - 🟣 Balfrug Kreeyath 
+  - 🟣 Porazdir 
+  - 👑 Skotizo 
+
+🟢 Black dragon
+  - 🟣 Baby black dragon 
+  - 🟣 Brutal black dragon 
+  - 👑 King Black Dragon 
+
+🟢 Black Knight
+
+🟢 Bloodveld
+  - 🟣 Mutated Bloodveld
+  - 🔺 Insatiable Bloodveld
+  - 🔺 Insatiable mutated Bloodveld
+
+🟢 Blue dragon
+  - 🟣 Baby blue dragon
+  - 🟣 Brutal blue dragon
+  - 👑 Vorkath
+
+🟢 Brine rat
+
+🟢 Bronze dragon
+
+🟢 Catablepon
+
+🟢 Cave bug
+
+🟢 Cave crawler
+  - 🔺 Chasm Crawler
+
+🟢 Cave horror
+  - 🔺 Cave abomination
+
+🟢 Cave slime
+
+🟢 Cave kraken
+  - 👑 Kraken
+
+🟢 Chaos druid
+  - 🟣 Elder Chaos druid
+
+🟢 Cockatrice
+  - 🔺 Cockathrice
+
+🟢 Cow
+  - 🟣 Cow calf
+  - 🟣 Undead cows
+
+🟢 Crab
+  - 🟣 Ammonite Crab 
+  - 🟣 Frost Crab 
+  - 🟣 King Sand Crab 
+  - 🟣 Rock Crab 
+  - 🟣 Sand Crab 
+  - 🟣 Swamp Crab 
+
+🟢 Crawling Hand
+  - 🔺 Crushing hand
+
+🟢 Crocodile
+
+🟢 Dagannoth
+  - 🟣 Dagannoth fledgeling 
+  - 🟣 Dagannoth spawn 
+  - 👑 Dagannoth Prime 
+  - 👑 Dagannoth Rex 
+  - 👑 Dagannoth Supreme
+
+🟢 Dark beast
+  - 🔺 Night beast
+
+🟢 Dark warrior
+
+🟢 Dog
+  - 🟣 Guard dog 
+  - 🟣 Wild dog 
+  - 🟣 Jackal 
+  - 🟣 Temple Guardian
+
+🟢 Drake
+  - 🔺 Guardian Drake
+
+🟢 Dust devils
+  - 🔺 Choke devil
+
+🟢 Dwarves
+  - 🟣 Black Guard 
+  - 🟣 Chaos dwarf
+
+🟢 Earth Warriors
+
+🟢 Elves
+  - 🟣 Mourner (Lvl 108 variant only)
+
+🟢 Ent
+
+🟢 Fever spiders
+
+🟢 Fire giant
+  - 🟣 Branda the Fire Queen
+
+🟢 Flesh Crawlers
+
+🟢 Fossil Island Wyvern
+  - 🟣 Ancient wyvern
+  - 🟣 Spitting wyvern
+  - 🟣 Taloned wyvern
+  - 🟣 Long-tailed wyvern
+
+🟢 Gargoyle
+  - 🟣 Grotesque Guardians
+  - 🔺 Marble gargoyle
+
+🟢 Ghosts
+  - 🟣 Tortured soul
+
+🟢 Ghouls
+  - 🟣 Sergeant Strongstack
+  - 🟣 Sergeant Grimspike
+  - 🟣 Sergeant Steelwill
+  - 🟣 Cave Goblin
+
+🟢 Greater demons
+  - 🟣 K'ril Tsutsaroth
+  - 🟣 Tstanon Karlak
+  - 🟣 Tormented Demons
+  - 👑 Skotizo
+
+🟢 Green dragons
+  - 🟣 Baby green dragon
+  - 🟣 Brutal green dragon
+  - 🟣 Elvarg
+
+🟢 Harpie bug swarms
+
+🟢 Hill Giant
+  - 🟣 Cyclops
+  - 👑 Obor
+
+🟢 Hobgoblins
+
+🟢 Hydras
+  - 🟣 Alchemical Hydra
+  - 🔺 Colossal Hydra
+
+🟢 Icefiends
+
+🟢 Ice giants
+  - 👑 Eldric the Ice King
+
+🟢 Ice warriors
+  - 🟣 Icelord
+
+🟢 Infernal Mages
+  - 🔺 Malevolent Mage
+
+🟢 Iron dragons
+
+🟢 Jellies
+  - 🟣 Warped Jelly
+  - 🔺 Vitreous Jelly 
+  - 🔺 Vitreous warped Jelly
+
+🟢 Jungle horrors
+
+🟢 Kalphite
+  - 🟣 Kalphite Worker 
+  - 🟣 Kalphite Soldier 
+  - 🟣 Kalphite Guardian
+  - 👑 Kalphite Queen
+
+🟢 Killerwatts
+
+🟢 Kurasks
+  - 🔺 King kurask
+
+🟢 Lava dragon
+
+🟢 Lesser demon
+  - 🟣 Zakl'n Gritch
+
+🟢 Lesser Nagua
+  - 👑 Amoxliatl
+
+🟢 Lizardmen
+  - 🟣 Lizardman brute 
+  - 🟣 Lizardman shaman
+
+🟢 Lizard
+  - 🟣 Desert Lizard
+  - 🟣 Grimy Lizard 
+  - 🟣 Lizard
+  - 🟣 Small Lizard
+  - 🟣 Sulphur Lizard
+
+🟢 Magic axe
+
+🟢 Mammoth
+
+🟢 Mithril dragon
+
+🟢 Minotaur
+
+🟢 Mogre
+
+🟢 Molanisk
+
+🟢 Monkey
+  - 🟣 Monkey Guard
+  - 🟣 Monkey Archer
+  - 🟣 Zombie monkey
+  - 🟣 Padulah
+
+🟢 Moss giant
+
+🟢 Nechryael
+  - 🟣 Greater Nechryael
+  - 🔺 Nechryarch
+
+🟢 Ogre
+  - 🟣 Ogre chieftain 
+  - 🟣 Enclave guard 
+  - 🟣 Ogress Shaman 
+  - 🟣 Ogress Warrior 
+
+🟢 Otherworldly beings
+
+🟢 Pirate
+
+🟢 Pyrefiend
+  - 🟣 Pyrelord
+  - 🔺 Flaming pyrelord 
+  - 🔺 Infernal pyrelord 
+
+🟢 Rat
+  - 🟣 Giant rat
+  - 🟣 Dungeon rat
+  - 🟣 Crypt rat
+  - 🟣 Brine rat
+  - 🟣 Hell-Rat Behemoth
+  - 👑 Scurrius
+  
+🟢 Red dragon
+  - 🟣 Baby red dragons 
+  - 🟣 Brutal red dragons
+
+🟢 Revenant
+
+🟢 Rockslug
+  - 🔺 Giant rockslug
+
+🟢 Rogue
+
+🟢 Rune Dragon
+
+🟢 Scabarite
+  - 🟣 Locust riders 
+  - 🟣 Scarab mages 
+  - 🟣 Scarab swarms 
+  - 🟣 Small scarabs 
+
+🟢 Scorpion
+  - 🟣 King Scorpion 
+  - 🟣 Poison Scorpion 
+  - 🟣 Pit Scorpion 
+  - 🟣 Scorpia 
+  - 🟣 Lobstrosity
+
+🟢 Sea snake
+  - 🟣 Sea Snake Hatchling 
+  - 🟣 Sea Snake Young 
+  - 🟣 Giant Sea Snake 
+
+🟢 Shade
+  - 🟣 Loar
+  - 🟣 Phryn
+  - 🟣 Riyl
+  - 🟣 Asyn 
+  - 🟣 Fiyr shades
+
+🟢 Shadow warrior
+
+🟢 Skeletal Wyvern
+
+🟢 Skeleton
+  - 👑 Vet'ion 
+  - 👑 Calvar'ion
+
+🟢 Smoke devil
+  - 🟣 Thermonuclear smoke devil 
+  - 🟣 Nuclear smoke devil 
+  - 🔺 Nuclear smoke devil 
+
+🟢 Sourhog
+
+🟢 Spider
+  - 🟣 Giant spider
+  - 🟣 Shadow spider
+  - 🟣 Jungle spider
+  - 🟣 Deadly red spider
+  - 🟣 Poison spider
+  - 🟣 Blessed spider
+  - 🟣 Kalrag
+  - 🟣 Crypt spider
+  - 🟣 Temple Spider
+  - 🟣 Sarachnis
+  - 🟣 Spindel
+  - 🟣 Venenatis
+  - 🟣 Araxyte
+  - 🟣 Araxxor
+
+🟢 Spiritual creature
+
+🟢 Steel dragon
+
+🟢 Suqah
+
+🟢 Terror dog
+
+🟢 Trolls
+  - 🟣 Mountain troll
+  - 🟣 Ice troll grunt
+  - 🟣 Runt
+  - 🟣 Male
+  - 🟣 Female
+  - 🟣 Ice troll
+  - 🟣 River troll
+  
+🟢 Turoth
+  - 🔺 Spiked Turoth
+  
+🟢 TzHaar
+  - 🟣 TzTok-Jad
+  - 🟣 TzKal-Zuk
+  
+🟢 Vampyres
+  - 🟣 Vyrewatch
+  - 🟣 Vyrewatch Sentinel
+
+🟢 Wall beasts
+
+🟢 Warped creatures
+  - 🔺 Mutated Terrorbird
+  - 🔺 Mutated Tortoise
+  
+🟢 Waterfiends
+
+🟢 Werewolves
+
+🟢 Wolves
+  - 🟣 Big Wolf  
+  - 🟣 Dire wolf  
+  - 🟣 Jungle wolf  
+  - 🟣 Desert Wolf  
+  - 🟣 Ice Wolf
+
+🟢 Wyrms
+  - 🔺 Shadow Wyrm
+
+🟢 Zombies
+  - 🟣 Any zombie-class except Zogres and Zombie monkeys
+
+🟢 Zygomites
+  - 🟣 Ancient Zygomite

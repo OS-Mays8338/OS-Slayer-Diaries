@@ -1,19 +1,21 @@
-OS Mays8338 License v1.0  
+OS Mays8338 License v2.0  
 Copyright © 2025 OS Mays8338  
 All rights reserved.
 
-This software and associated files (collectively, the “Software”) are the intellectual property of OS Mays8338 and are protected under applicable copyright laws and international treaties.
+This software, documentation, and all related content (collectively, the “Work”), including but not limited to source code, configuration files, data files, and written documentation (such as the Slayer Diaries Wiki), are the intellectual property of OS Mays8338 and are protected under applicable copyright laws and international treaties.
 
-Permission is granted to view the Software for personal, non-commercial reference purposes only. No other rights are granted. Without prior written consent from the copyright holder, you may not:
+Permission is granted to view the Work for personal, non-commercial reference purposes only. No other rights are granted. Without the prior written consent of the copyright holder, you may not:
 
-- Reproduce, copy, or redistribute the Software, in whole or in part;
-- Modify, adapt, translate, or create derivative works of the Software;
-- Sell, license, sublicense, or otherwise use the Software for any commercial or public purpose;
-- Host, publish, mirror, or share the Software in any physical or digital medium.
+- Reproduce, copy, or redistribute any part of the Work;
+- Modify, adapt, translate, or create derivative works based on the Work;
+- Use the Work, in whole or in part, for any commercial or public-facing purpose;
+- Host, mirror, or publish the Work in any physical or digital medium, including wikis, websites, or repositories.
+
+This license applies to all components of the project, including the Slayer Diaries Wiki and all associated written, visual, and structured documentation.
 
 **Disclaimer of Warranty:**  
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.  
-IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.  
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
 
-For permissions, licensing inquiries, or other contact, visit:  
+For licensing requests, permissions, or other inquiries, contact:  
 https://github.com/OS-Mays8338

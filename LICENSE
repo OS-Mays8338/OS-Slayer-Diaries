@@ -1,8 +1,12 @@
-OS Mays8338 License v2.0  
-Copyright © 2025 OS Mays8338  
+OS-Mays8338 License v3.0  
+Copyright © 2025 OS-Mays8338  
 All rights reserved.
 
-This software, documentation, and all related content (collectively, the “Work”), including but not limited to source code, configuration files, data files, and written documentation (such as the Slayer Diaries Wiki), are the intellectual property of OS Mays8338 and are protected under applicable copyright laws and international treaties.
+This project, including its original code, configuration files, BBTag templates, wiki layout, and custom-written documentation (collectively, the “Work”), is the intellectual property of OS Mays8338 and is protected under applicable copyright laws.
+
+The Work may reference or display content from the Old School RuneScape Wiki (https://oldschool.runescape.wiki), which is licensed under the Creative Commons Attribution-ShareAlike 3.0 license (CC BY-SA 3.0). All such third-party content remains the property of its respective creators.
+
+Old School RuneScape and related assets are trademarks and intellectual property of Jagex Ltd. This project is unaffiliated with, and not endorsed by, Jagex or the OSRS Wiki team. All rights to original game assets and official documentation are retained by their respective owners.
 
 Permission is granted to view the Work for personal, non-commercial reference purposes only. No other rights are granted. Without the prior written consent of the copyright holder, you may not:
 
@@ -10,8 +14,6 @@ Permission is granted to view the Work for personal, non-commercial reference pu
 - Modify, adapt, translate, or create derivative works based on the Work;
 - Use the Work, in whole or in part, for any commercial or public-facing purpose;
 - Host, mirror, or publish the Work in any physical or digital medium, including wikis, websites, or repositories.
-
-This license applies to all components of the project, including the Slayer Diaries Wiki and all associated written, visual, and structured documentation.
 
 **Disclaimer of Warranty:**  
 THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.  

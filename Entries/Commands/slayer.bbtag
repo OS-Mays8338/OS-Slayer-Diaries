@@ -385,3 +385,8 @@ thumbnail.url:https://oldschool.runescape.wiki/images/thumb/7/7a/Abyssal_demon.p
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}}
+{//;
+*****************************************
+*\                E N D                /*
+*****************************************
+}

@@ -17,5 +17,8 @@ With useful information like
 
 Whether you're looking for the best places to hunt, notable loot, or necessary preparations, this tool ensures you have everything needed for efficient Slayer training.
 
-__**To join the Discord**__:
-# [Click Here](https://discord.gg/maA2frTzUH)
+----
+
+### Links
+
+[Discord](https://discord.gg/maA2frTzUH)  |  [Wiki](https://github.com/OS-Mays8338/Slayer-Diaries/wiki)  |  [License](https://github.com/OS-Mays8338/Slayer-Diaries/blob/main/LICENSE)
